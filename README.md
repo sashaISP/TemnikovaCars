@@ -82,3 +82,10 @@
 
 ![38](https://github.com/sashaISP/TemnikovaCars/assets/160009685/2d9ab6d2-4a48-4bbe-94e1-c74fb762f882)
 
+![39](https://github.com/sashaISP/TemnikovaCars/assets/160009685/520c0659-a560-4506-bae6-425ee5f9b8e3)
+
+![40](https://github.com/sashaISP/TemnikovaCars/assets/160009685/5fc0a02a-ce00-4d71-b20a-aa7a0102a0ad)
+
+![41](https://github.com/sashaISP/TemnikovaCars/assets/160009685/f8c6e47c-4f9b-498a-a14f-19883fcf2549)
+
+![42](https://github.com/sashaISP/TemnikovaCars/assets/160009685/d39e240f-1845-4aa1-b9d9-07a45bde4f53)
