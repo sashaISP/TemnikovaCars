@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:temnikova_cars/components/example_bottom_app_bar.dart';
 import 'package:temnikova_cars/components/example_list_view_card_car.dart';
 import 'package:temnikova_cars/model/cars.dart';
 
@@ -16,7 +17,7 @@ class CardCar extends StatelessWidget {
             itemCount: 1,
             itemBuilder: (BuildContext context, int index) {
               return ExampleListViewCardCar(
-                carId: id,
+                idCar: id,
               );
             },
           ),
@@ -31,6 +32,11 @@ class CardCar extends StatelessWidget {
             fontSize: 37,
           ),
         ),
+      ),
+      bottomNavigationBar: const ExampleBottomAppBar(
+        home: true,
+        favoriteCars: true,
+        cartCars: true,
       ),
     );
   }
